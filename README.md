@@ -85,7 +85,7 @@ python main.py
 ## 📁 Структура проекта
 
 ```
-tg2discord/
+Connecter-Telegram-of-Discord-BOTs/
 ├── main.py          # Основной скрипт
 ├── .env             # Конфиденциальные переменные (не коммитить!)
 ├── requirements.txt # Зависимости
